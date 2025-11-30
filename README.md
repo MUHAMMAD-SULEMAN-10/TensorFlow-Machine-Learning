@@ -81,7 +81,7 @@ model.fit(train_data, epochs=epochs, validation_data=val_data)
 
 ---
 
-## 📊 Reproducibility
+##  Reproducibility
 
 ```
 import tensorflow as tf
